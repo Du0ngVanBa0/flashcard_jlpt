@@ -1,0 +1,52 @@
+# deck|section|symbol|romaji|hint|detail
+numbers|basic|0|zero / rei|ゼロ / れい|Zero thuong gap trong so dien thoai, ma so, gia ca kieu hien dai.;;Rei hay gap trong toan hoc, diem so va cach doc trang trong hon.;;Vi du: 0円 co the doc rei en hoac zero en tuy ngu canh.
+numbers|basic|1|ichi|いち|So 1 co cach doc co ban la ichi.;;Khi ghep so lon hon, ichi giu dang on dinh nhu juu ichi, hyaku ichi.;;Can nghe ro am i ngan o dau.
+numbers|basic|2|ni|に|So 2 doc la ni.;;Hay gap trong ni juu, ni hyaku, ni sen.;;Am doc thang va de ghep.
+numbers|basic|3|san|さん|So 3 doc la san.;;Can luu y cac dang bien doi khi len 300 va 3000.;;Vi du co ban: san, san juu, san byaku, san zen.
+numbers|basic|4|yon / shi|よん / し|Yon an toan va pho bien nhat trong hoi dap hang ngay.;;Shi van dung trong mot so tu ghep co san.;;Khi moi hoc N5, uu tien nho 4 = yon.
+numbers|basic|5|go|ご|So 5 doc la go.;;Rat deu khi ghep: go juu, go hyaku, go sen.;;Khong co bien doi dac biet lon.
+numbers|basic|6|roku|ろく|So 6 doc la roku.;;Can luu y 600 doc lech thanh roppyaku.;;Con dang co ban va hang chuc van la roku, roku juu.
+numbers|basic|7|nana / shichi|なな / しち|Nana hay dung hon khi dem thong thuong.;;Shichi van xuat hien trong mot so tu co dinh.;;Khi moi hoc N5, uu tien nho 7 = nana.
+numbers|basic|8|hachi|はち|So 8 doc la hachi.;;Can luu y 800 doc lech thanh happyaku va 8000 la hassen.;;Am chi o cuoi de nghe mat hon khi ghep.
+numbers|basic|9|kyuu / ku|きゅう / く|Kyuu la cach doc pho bien nhat.;;Ku van xuat hien trong mot so to hop nhung de nham voi ku = kho.;;Khi moi hoc N5, uu tien nho 9 = kyuu.
+numbers|basic|10|juu|じゅう|So 10 doc la juu.;;Moi so 11-19 deu ghep tu juu + so don vi.;;Vi du 12 = juu ni, 19 = juu kyuu.
+numbers|compound|11|juu ichi|じゅういち|11 = 10 + 1.;;Doc lien mach thanh juu ichi.;;Day la mau co ban de ghep cac so 11-19.
+numbers|compound|12|juu ni|じゅうに|12 = 10 + 2.;;Khong co bien doi dac biet.;;Can nho logic ghep thang tu juu.
+numbers|compound|14|juu yon|じゅうよん|14 thuong doc la juu yon trong giao tiep.;;Dang juu shi van ton tai nhung de nham voi 40.;;Vi the yon la cach an toan hon.
+numbers|compound|17|juu nana|じゅうなな|17 thuong doc la juu nana trong hoi thoai.;;Dang juu shichi van co nhung it uu tien cho nguoi moi hoc.;;Mau nay giup tranh nham voi 1 va 7 khi nghe nhanh.
+numbers|compound|19|juu kyuu|じゅうきゅう|19 thuong doc la juu kyuu.;;Dang juu ku van co nhung it uu tien hon.;;Kyuu cho am nghe ro va de nho.
+numbers|compound|20|ni juu|にじゅう|20 = 2 x 10.;;Tat ca hang chuc deu ghep bang so + juu.;;Vi du 20, 30, 50 deu theo khuon nay.
+numbers|compound|30|san juu|さんじゅう|30 = san juu.;;Ghep deu va khong bien doi.;;Luu y san la 3, khac voi sanbyaku o 300.
+numbers|compound|40|yon juu|よんじゅう|40 thuong doc la yon juu.;;Khong uu tien shi juu vi rat de nham.;;Trong giao tiep N5, yon juu la lua chon tot nhat.
+numbers|compound|50|go juu|ごじゅう|50 = go juu.;;Khong co bien doi dac biet.;;Mau doc on dinh nhu 20 va 30.
+numbers|compound|60|roku juu|ろくじゅう|60 = roku juu.;;Luu y 60 khong doi am, chi 600 moi doi.;;Vi du 66 = roku juu roku.
+numbers|compound|70|nana juu|ななじゅう|70 thuong doc la nana juu.;;Khong uu tien shichi juu cho nguoi moi hoc.;;Nana giup nghe tach bach hon.
+numbers|compound|80|hachi juu|はちじゅう|80 = hachi juu.;;Khong doi am o hang chuc.;;Chi 800 moi doi thanh happyaku.
+numbers|compound|90|kyuu juu|きゅうじゅう|90 = kyuu juu.;;Kyuu la dang pho bien nhat.;;Mau nay giup ghep 99 thanh kyuu juu kyuu.
+numbers|compound|21|ni juu ichi|にじゅういち|21 = 20 + 1.;;Cach doc la hang chuc truoc, don vi sau.;;Vi du 24 = ni juu yon, 28 = ni juu hachi.
+numbers|compound|24|ni juu yon|にじゅうよん|24 minh hoa cach chon yon thay cho shi.;;Vi du nay rat hay gap trong gio, ngay thang va gia ca.;;Doc deu thanh ni juu yon.
+numbers|compound|99|kyuu juu kyuu|きゅうじゅうきゅう|99 = 90 + 9.;;Mau nay cho thay cach ghep so lon van giu quy tac don gian.;;Nghe thanh kyuu juu kyuu, khong nuot am giua.
+numbers|large|100|hyaku|ひゃく|100 doc la hyaku.;;Day la moc can nho truoc khi hoc cac dang lech.;;Vi du 101 = hyaku ichi.
+numbers|large|200|ni hyaku|にひゃく|200 = ni hyaku.;;Khong co bien doi dac biet.;;Vi du 250 = ni hyaku go juu.
+numbers|large|300|sanbyaku|さんびゃく|300 la mot dang doc lech quan trong.;;Khong doc san hyaku.;;Can nho ca mat chu va am thanh sanbyaku.
+numbers|large|400|yon hyaku|よんひゃく|400 thuong doc la yon hyaku.;;Khong uu tien shi hyaku cho nguoi moi hoc.;;Yon giup de nghe va de phan biet hon.
+numbers|large|500|go hyaku|ごひゃく|500 = go hyaku.;;Khong co bien doi dac biet.;;La mau ghep deu nhu 200.
+numbers|large|600|roppyaku|ろっぴゃく|600 la dang doc lech.;;Khong doc roku hyaku.;;Am cuoi roku bien thanh rop khi ghep de doc roppyaku.
+numbers|large|700|nana hyaku|ななひゃく|700 thuong doc la nana hyaku.;;Nana duoc uu tien hon shichi hyaku cho muc tieu N5.;;Mau nay de nho va de nghe.
+numbers|large|800|happyaku|はっぴゃく|800 la dang doc lech.;;Khong doc hachi hyaku.;;Can nho am ngat happyaku.
+numbers|large|900|kyuu hyaku|きゅうひゃく|900 = kyuu hyaku.;;Khong co bien doi lon nhu 300 600 800.;;Doc deu va giu kyuu.
+numbers|large|1000|sen|せん|1000 doc la sen.;;Day la dang co ban cua hang nghin.;;Vi du 1001 = sen ichi.
+numbers|large|2000|ni sen|にせん|2000 = ni sen.;;Khong co bien doi dac biet.;;Vi du 2500 = ni sen go hyaku.
+numbers|large|3000|sanzen|さんぜん|3000 la dang doc lech.;;Khong doc san sen.;;Can nho san + sen doi thanh sanzen.
+numbers|large|4000|yon sen|よんせん|4000 thuong doc la yon sen.;;Khong uu tien shi sen cho nguoi moi hoc.;;Yon giup tach biet voi cac tu khac.
+numbers|large|5000|go sen|ごせん|5000 = go sen.;;Khong co bien doi dac biet.;;Mau ghep deu va de nho.
+numbers|large|6000|roku sen|ろくせん|6000 = roku sen.;;Khong doi am nhu 600.;;Can phan biet roku sen voi roppyaku.
+numbers|large|7000|nana sen|ななせん|7000 thuong doc la nana sen.;;Nana lai duoc uu tien hon shichi sen.;;Rieng 7000 khong co bien doi phuc tap.
+numbers|large|8000|hassen|はっせん|8000 la dang doc lech.;;Khong doc hachi sen.;;Can nghe ro am ngat ha-ssen.
+numbers|large|9000|kyuu sen|きゅうせん|9000 = kyuu sen.;;Khong co bien doi dac biet.;;Doc deu va giu kyuu.
+numbers|large|10000|ichi man|いちまん|10000 bat dau dung don vi man.;;Tieng Nhat nhom so theo 10000, khong theo 1000 nhu tieng Viet.;;Vi du 11000 = ichi man sen.
+numbers|rule|4 / 7 / 9|cach doc uu tien|Nen uu tien yon, nana, kyuu trong giao tiep co ban|Cac dang shi, shichi, ku van ton tai nhung de gay nham.;;Khi moi hoc N5, dung yon, nana, kyuu se an toan hon trong hoi thoai.;;Vi du: 4 gio = yo ji, nhung so dem 4 qua tao thuong van la yon.
+numbers|rule|11-99|ghep so|So hang chuc ghep theo mau chuc truoc, don vi sau|11 = juu ichi, 21 = ni juu ichi, 35 = san juu go.;;Ban cu doc hang chuc truoc roi them don vi neu can.;;Mau nay giu on dinh cho phan lon so nho.
+numbers|rule|300 / 600 / 800|hang tram lech|Can nho sanbyaku, roppyaku, happyaku|Day la ba moc hang tram de doc lech.;;Khong doc san hyaku, roku hyaku, hachi hyaku trong cach doc chuan thong dung.;;Nen hoc chung thanh mot cum de nho lau.
+numbers|rule|3000 / 8000|hang nghin lech|Can nho sanzen va hassen|3000 va 8000 la hai moc hang nghin doc lech quan trong.;;Khong doc san sen hay hachi sen trong cach doc thong dung.;;Hay luyen nghe cung 1000, 2000, 5000 de thay su khac nhau.
+numbers|rule|man|don vi 10000|Tieng Nhat nhom so theo 10000, nen 10000 = ichi man|10000 khong doc la juu sen.;;Khi qua 9999, nguoi Nhat chuyen sang don vi man.;;Vi du 20000 = ni man, 15000 = ichi man go sen.

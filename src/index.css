@@ -1,0 +1,75 @@
+:root {
+  --bg: #f6f0e8;
+  --surface: rgba(255, 252, 247, 0.88);
+  --surface-strong: #fffdf9;
+  --panel-soft: #f0e4d6;
+  --ink: #0a1f44;
+  --muted: #5f6b84;
+  --line: rgba(10, 31, 68, 0.12);
+  --accent: #eb5c2e;
+  --accent-soft: rgba(235, 92, 46, 0.12);
+  --soft-shadow: 0 22px 60px rgba(52, 36, 18, 0.08);
+  --font-ui: 'Aptos', 'Segoe UI Variable Display', 'Trebuchet MS', sans-serif;
+  --font-jp: 'Yu Gothic UI', 'Hiragino Sans', 'Meiryo', sans-serif;
+  --font-mono: 'Consolas', 'Courier New', monospace;
+  color: var(--ink);
+  background:
+    radial-gradient(circle at top left, rgba(235, 92, 46, 0.12), transparent 22%),
+    radial-gradient(circle at bottom right, rgba(10, 31, 68, 0.08), transparent 28%),
+    var(--bg);
+  font: 17px/1.5 var(--font-ui);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+#root {
+  width: min(1180px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 24px 0 40px;
+  min-height: 100dvh;
+}
+
+h1 {
+  font-size: clamp(2.4rem, 4vw, 4.6rem);
+  line-height: 1.02;
+  letter-spacing: -0.05em;
+}
+
+h2 {
+  font-size: clamp(1.4rem, 2vw, 2rem);
+  line-height: 1.1;
+  letter-spacing: -0.04em;
+}
+
+@media (max-width: 720px) {
+  :root {
+    font-size: 16px;
+  }
+
+  #root {
+    width: min(100% - 20px, 1180px);
+    padding-top: 16px;
+  }
+}

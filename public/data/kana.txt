@@ -1,0 +1,220 @@
+# deck|section|symbol|romaji|hint|detail
+hiragana|basic|あ|a|Nguyên âm a
+hiragana|basic|い|i|Nguyên âm i
+hiragana|basic|う|u|Nguyên âm u
+hiragana|basic|え|e|Nguyên âm e
+hiragana|basic|お|o|Nguyên âm o
+hiragana|basic|か|ka|Hàng k
+hiragana|basic|き|ki|Hàng k
+hiragana|basic|く|ku|Hàng k
+hiragana|basic|け|ke|Hàng k
+hiragana|basic|こ|ko|Hàng k
+hiragana|basic|さ|sa|Hàng s
+hiragana|basic|し|shi|Đọc là shi
+hiragana|basic|す|su|Hàng s
+hiragana|basic|せ|se|Hàng s
+hiragana|basic|そ|so|Hàng s
+hiragana|basic|た|ta|Hàng t
+hiragana|basic|ち|chi|Đọc là chi
+hiragana|basic|つ|tsu|Đọc là tsu
+hiragana|basic|て|te|Hàng t
+hiragana|basic|と|to|Hàng t
+hiragana|basic|な|na|Hàng n
+hiragana|basic|に|ni|Hàng n
+hiragana|basic|ぬ|nu|Hàng n
+hiragana|basic|ね|ne|Hàng n
+hiragana|basic|の|no|Hàng n
+hiragana|basic|は|ha|Chữ cái đọc ha
+hiragana|basic|ひ|hi|Hàng h
+hiragana|basic|ふ|fu|Đọc là fu
+hiragana|basic|へ|he|Chữ cái đọc he
+hiragana|basic|ほ|ho|Hàng h
+hiragana|basic|ま|ma|Hàng m
+hiragana|basic|み|mi|Hàng m
+hiragana|basic|む|mu|Hàng m
+hiragana|basic|め|me|Hàng m
+hiragana|basic|も|mo|Hàng m
+hiragana|basic|や|ya|Hàng y
+hiragana|basic|ゆ|yu|Hàng y
+hiragana|basic|よ|yo|Hàng y
+hiragana|basic|ら|ra|Hàng r
+hiragana|basic|り|ri|Hàng r
+hiragana|basic|る|ru|Hàng r
+hiragana|basic|れ|re|Hàng r
+hiragana|basic|ろ|ro|Hàng r
+hiragana|basic|わ|wa|Hàng w
+hiragana|basic|を|o|Ngày nay thường phát âm là o
+hiragana|basic|ん|n|Âm n cuối
+hiragana|dakuten|が|ga|Dakuten của か
+hiragana|dakuten|ぎ|gi|Dakuten của き
+hiragana|dakuten|ぐ|gu|Dakuten của く
+hiragana|dakuten|げ|ge|Dakuten của け
+hiragana|dakuten|ご|go|Dakuten của こ
+hiragana|dakuten|ざ|za|Dakuten của さ
+hiragana|dakuten|じ|ji|Dakuten của し
+hiragana|dakuten|ず|zu|Dakuten của す
+hiragana|dakuten|ぜ|ze|Dakuten của せ
+hiragana|dakuten|ぞ|zo|Dakuten của そ
+hiragana|dakuten|だ|da|Dakuten của た
+hiragana|dakuten|ぢ|ji|Chính tả khác, phát âm thường như じ
+hiragana|dakuten|づ|zu|Chính tả khác, phát âm thường như ず
+hiragana|dakuten|で|de|Dakuten của て
+hiragana|dakuten|ど|do|Dakuten của と
+hiragana|dakuten|ば|ba|Dakuten của は
+hiragana|dakuten|び|bi|Dakuten của ひ
+hiragana|dakuten|ぶ|bu|Dakuten của ふ
+hiragana|dakuten|べ|be|Dakuten của へ
+hiragana|dakuten|ぼ|bo|Dakuten của ほ
+hiragana|dakuten|ぱ|pa|Handakuten của は
+hiragana|dakuten|ぴ|pi|Handakuten của ひ
+hiragana|dakuten|ぷ|pu|Handakuten của ふ
+hiragana|dakuten|ぺ|pe|Handakuten của へ
+hiragana|dakuten|ぽ|po|Handakuten của ほ
+hiragana|combo|きゃ|kya|Âm ghép của き với ゃ nhỏ
+hiragana|combo|きゅ|kyu|Âm ghép của き với ゅ nhỏ
+hiragana|combo|きょ|kyo|Âm ghép của き với ょ nhỏ
+hiragana|combo|ぎゃ|gya|Âm ghép của ぎ với ゃ nhỏ
+hiragana|combo|ぎゅ|gyu|Âm ghép của ぎ với ゅ nhỏ
+hiragana|combo|ぎょ|gyo|Âm ghép của ぎ với ょ nhỏ
+hiragana|combo|しゃ|sha|Âm ghép của し với ゃ nhỏ
+hiragana|combo|しゅ|shu|Âm ghép của し với ゅ nhỏ
+hiragana|combo|しょ|sho|Âm ghép của し với ょ nhỏ
+hiragana|combo|じゃ|ja|Âm ghép của じ với ゃ nhỏ
+hiragana|combo|じゅ|ju|Âm ghép của じ với ゅ nhỏ
+hiragana|combo|じょ|jo|Âm ghép của じ với ょ nhỏ
+hiragana|combo|ちゃ|cha|Âm ghép của ち với ゃ nhỏ
+hiragana|combo|ちゅ|chu|Âm ghép của ち với ゅ nhỏ
+hiragana|combo|ちょ|cho|Âm ghép của ち với ょ nhỏ
+hiragana|combo|にゃ|nya|Âm ghép của に với ゃ nhỏ
+hiragana|combo|にゅ|nyu|Âm ghép của に với ゅ nhỏ
+hiragana|combo|にょ|nyo|Âm ghép của に với ょ nhỏ
+hiragana|combo|ひゃ|hya|Âm ghép của ひ với ゃ nhỏ
+hiragana|combo|ひゅ|hyu|Âm ghép của ひ với ゅ nhỏ
+hiragana|combo|ひょ|hyo|Âm ghép của ひ với ょ nhỏ
+hiragana|combo|びゃ|bya|Âm ghép của び với ゃ nhỏ
+hiragana|combo|びゅ|byu|Âm ghép của び với ゅ nhỏ
+hiragana|combo|びょ|byo|Âm ghép của び với ょ nhỏ
+hiragana|combo|ぴゃ|pya|Âm ghép của ぴ với ゃ nhỏ
+hiragana|combo|ぴゅ|pyu|Âm ghép của ぴ với ゅ nhỏ
+hiragana|combo|ぴょ|pyo|Âm ghép của ぴ với ょ nhỏ
+hiragana|combo|みゃ|mya|Âm ghép của み với ゃ nhỏ
+hiragana|combo|みゅ|myu|Âm ghép của み với ゅ nhỏ
+hiragana|combo|みょ|myo|Âm ghép của み với ょ nhỏ
+hiragana|combo|りゃ|rya|Âm ghép của り với ゃ nhỏ
+hiragana|combo|りゅ|ryu|Âm ghép của り với ゅ nhỏ
+hiragana|combo|りょ|ryo|Âm ghép của り với ょ nhỏ
+hiragana|rule|っ|ngắt âm|Tsu nhỏ không đọc riêng, dùng để gấp đôi phụ âm sau nó|Không đọc thành "tsu".;;Hãy dừng rất ngắn trước phụ âm tiếp theo.;;Ví dụ: がっこう đọc gần như "gak-kou", きっぷ đọc gần như "kip-pu", ちょっと đọc gần như "chot-to".
+hiragana|rule|ゃ ゅ ょ|âm nhỏ|Ya yu yo nhỏ chỉ dùng để tạo âm ghép|Khi đi sau chữ hàng i, chúng nhập lại thành một âm mới.;;Ví dụ: きゃ là kya, しゅ là shu, ちょ là cho.;;Không tách thành ki-ya hay shi-yu.
+hiragana|rule|ん|n|Âm ん là âm mũi ở cuối mora|Đứng cuối từ thì đọc như n mũi: ほん.;;Đứng trước b m p thường nghe gần như m: しんぶん nghe gần như "shimbun".;;Nhưng cách viết vẫn luôn là ん.
+hiragana|rule|は|wa|Khi là trợ từ chủ đề, は đọc là wa|Nếu は là chữ cái độc lập thì đọc ha.;;Nếu đứng sau danh từ để đánh dấu chủ đề thì đọc wa.;;Ví dụ: わたしは がくせいです đọc là "watashi wa gakusei desu".
+hiragana|rule|へ|e|Khi là trợ từ chỉ hướng, へ đọc là e|Nếu へ là chữ cái riêng thì đọc he.;;Khi dùng làm trợ từ chỉ hướng đi đến đâu, nó đọc e.;;Ví dụ: がっこうへ いきます đọc là "gakkou e ikimasu".
+hiragana|rule|を|o|Trợ từ tân ngữ を đọc là o|Trong tiếng Nhật hiện đại, を hầu như luôn phát âm là o.;;Nó thường đánh dấu tân ngữ trực tiếp.;;Ví dụ: パンを たべます đọc là "pan o tabemasu".
+hiragana|rule|おう / おお|oo|Thường tạo nguyên âm dài o trong hiragana|Nhiều từ viết おう nhưng khi đọc sẽ kéo dài âm o.;;Ví dụ: ありがとう đọc gần như "arigatou" với âm o cuối kéo dài, がっこう đọc gần như "gakkoo".;;Một số từ viết おお cũng kéo dài o như おおきい.
+hiragana|rule|えい|ei|Thường tạo nguyên âm dài e trong hiragana|Nhiều từ viết えい nhưng khi đọc sẽ nghe gần với ê kéo dài.;;Ví dụ: せんせい đọc gần như "sensee", えいが đọc gần như "eega".;;Khi mới học vẫn nên nhớ mặt chữ là ei để viết đúng.
+katakana|basic|ア|a|Nguyên âm a
+katakana|basic|イ|i|Nguyên âm i
+katakana|basic|ウ|u|Nguyên âm u
+katakana|basic|エ|e|Nguyên âm e
+katakana|basic|オ|o|Nguyên âm o
+katakana|basic|カ|ka|Hàng k
+katakana|basic|キ|ki|Hàng k
+katakana|basic|ク|ku|Hàng k
+katakana|basic|ケ|ke|Hàng k
+katakana|basic|コ|ko|Hàng k
+katakana|basic|サ|sa|Hàng s
+katakana|basic|シ|shi|Đọc là shi
+katakana|basic|ス|su|Hàng s
+katakana|basic|セ|se|Hàng s
+katakana|basic|ソ|so|Hàng s
+katakana|basic|タ|ta|Hàng t
+katakana|basic|チ|chi|Đọc là chi
+katakana|basic|ツ|tsu|Đọc là tsu
+katakana|basic|テ|te|Hàng t
+katakana|basic|ト|to|Hàng t
+katakana|basic|ナ|na|Hàng n
+katakana|basic|ニ|ni|Hàng n
+katakana|basic|ヌ|nu|Hàng n
+katakana|basic|ネ|ne|Hàng n
+katakana|basic|ノ|no|Hàng n
+katakana|basic|ハ|ha|Hàng h
+katakana|basic|ヒ|hi|Hàng h
+katakana|basic|フ|fu|Đọc là fu
+katakana|basic|ヘ|he|Hàng h
+katakana|basic|ホ|ho|Hàng h
+katakana|basic|マ|ma|Hàng m
+katakana|basic|ミ|mi|Hàng m
+katakana|basic|ム|mu|Hàng m
+katakana|basic|メ|me|Hàng m
+katakana|basic|モ|mo|Hàng m
+katakana|basic|ヤ|ya|Hàng y
+katakana|basic|ユ|yu|Hàng y
+katakana|basic|ヨ|yo|Hàng y
+katakana|basic|ラ|ra|Hàng r
+katakana|basic|リ|ri|Hàng r
+katakana|basic|ル|ru|Hàng r
+katakana|basic|レ|re|Hàng r
+katakana|basic|ロ|ro|Hàng r
+katakana|basic|ワ|wa|Hàng w
+katakana|basic|ヲ|o|Ngày nay thường phát âm là o
+katakana|basic|ン|n|Âm n cuối
+katakana|dakuten|ガ|ga|Dakuten của カ
+katakana|dakuten|ギ|gi|Dakuten của キ
+katakana|dakuten|グ|gu|Dakuten của ク
+katakana|dakuten|ゲ|ge|Dakuten của ケ
+katakana|dakuten|ゴ|go|Dakuten của コ
+katakana|dakuten|ザ|za|Dakuten của サ
+katakana|dakuten|ジ|ji|Dakuten của シ
+katakana|dakuten|ズ|zu|Dakuten của ス
+katakana|dakuten|ゼ|ze|Dakuten của セ
+katakana|dakuten|ゾ|zo|Dakuten của ソ
+katakana|dakuten|ダ|da|Dakuten của タ
+katakana|dakuten|ヂ|ji|Chính tả khác, phát âm thường như ジ
+katakana|dakuten|ヅ|zu|Chính tả khác, phát âm thường như ズ
+katakana|dakuten|デ|de|Dakuten của テ
+katakana|dakuten|ド|do|Dakuten của ト
+katakana|dakuten|バ|ba|Dakuten của ハ
+katakana|dakuten|ビ|bi|Dakuten của ヒ
+katakana|dakuten|ブ|bu|Dakuten của フ
+katakana|dakuten|ベ|be|Dakuten của ヘ
+katakana|dakuten|ボ|bo|Dakuten của ホ
+katakana|dakuten|パ|pa|Handakuten của ハ
+katakana|dakuten|ピ|pi|Handakuten của ヒ
+katakana|dakuten|プ|pu|Handakuten của フ
+katakana|dakuten|ペ|pe|Handakuten của ヘ
+katakana|dakuten|ポ|po|Handakuten của ホ
+katakana|combo|キャ|kya|Âm ghép của キ với ャ nhỏ
+katakana|combo|キュ|kyu|Âm ghép của キ với ュ nhỏ
+katakana|combo|キョ|kyo|Âm ghép của キ với ョ nhỏ
+katakana|combo|ギャ|gya|Âm ghép của ギ với ャ nhỏ
+katakana|combo|ギュ|gyu|Âm ghép của ギ với ュ nhỏ
+katakana|combo|ギョ|gyo|Âm ghép của ギ với ョ nhỏ
+katakana|combo|シャ|sha|Âm ghép của シ với ャ nhỏ
+katakana|combo|シュ|shu|Âm ghép của シ với ュ nhỏ
+katakana|combo|ショ|sho|Âm ghép của シ với ョ nhỏ
+katakana|combo|ジャ|ja|Âm ghép của ジ với ャ nhỏ
+katakana|combo|ジュ|ju|Âm ghép của ジ với ュ nhỏ
+katakana|combo|ジョ|jo|Âm ghép của ジ với ョ nhỏ
+katakana|combo|チャ|cha|Âm ghép của チ với ャ nhỏ
+katakana|combo|チュ|chu|Âm ghép của チ với ュ nhỏ
+katakana|combo|チョ|cho|Âm ghép của チ với ョ nhỏ
+katakana|combo|ニャ|nya|Âm ghép của ニ với ャ nhỏ
+katakana|combo|ニュ|nyu|Âm ghép của ニ với ュ nhỏ
+katakana|combo|ニョ|nyo|Âm ghép của ニ với ョ nhỏ
+katakana|combo|ヒャ|hya|Âm ghép của ヒ với ャ nhỏ
+katakana|combo|ヒュ|hyu|Âm ghép của ヒ với ュ nhỏ
+katakana|combo|ヒョ|hyo|Âm ghép của ヒ với ョ nhỏ
+katakana|combo|ビャ|bya|Âm ghép của ビ với ャ nhỏ
+katakana|combo|ビュ|byu|Âm ghép của ビ với ュ nhỏ
+katakana|combo|ビョ|byo|Âm ghép của ビ với ョ nhỏ
+katakana|combo|ピャ|pya|Âm ghép của ピ với ャ nhỏ
+katakana|combo|ピュ|pyu|Âm ghép của ピ với ュ nhỏ
+katakana|combo|ピョ|pyo|Âm ghép của ピ với ョ nhỏ
+katakana|combo|ミャ|mya|Âm ghép của ミ với ャ nhỏ
+katakana|combo|ミュ|myu|Âm ghép của ミ với ュ nhỏ
+katakana|combo|ミョ|myo|Âm ghép của ミ với ョ nhỏ
+katakana|combo|リャ|rya|Âm ghép của リ với ャ nhỏ
+katakana|combo|リュ|ryu|Âm ghép của リ với ュ nhỏ
+katakana|combo|リョ|ryo|Âm ghép của リ với ョ nhỏ
+katakana|rule|ッ|ngắt âm|Tsu nhỏ không đọc riêng, dùng để gấp đôi phụ âm sau nó|Cách đọc giống quy tắc っ trong hiragana.;;Ví dụ: ベッド đọc gần như "bed-do", カップ đọc gần như "kap-pu".;;Hãy ngắt ngắn trước phụ âm tiếp theo.
+katakana|rule|ャ ュ ョ|âm nhỏ|Ya yu yo nhỏ chỉ dùng để tạo âm ghép|Ghép với chữ hàng i để tạo âm mới.;;Ví dụ: キャ là kya, シュ là shu, チョ là cho.;;Không tách thành ki-ya hay shi-yu.
+katakana|rule|ー|kéo âm|Dấu trường âm kéo dài nguyên âm ngay trước đó|Đây là dấu kéo dài nguyên âm rất hay gặp trong katakana.;;Ví dụ: コーヒー đọc là koohii, スーパー đọc là suupaa, ケーキ đọc là keeki.;;Khi thấy ー, hãy giữ dài nguyên âm ngay trước nó.
